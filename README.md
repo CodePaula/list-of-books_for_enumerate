@@ -1,2 +1,3 @@
-# list-of-books_for_enumerate-
-Projeto que utiliza o conceito de lista em Python, com "for" e enumerate(). (Project that uses the concept of list in Python, with "for" and enumerate().)
+Este projeto explora o conceito de lista em Python, utilizando a estrutura "for", a função enumerate() e o método format(). Foi desenvolvido no Jupyter Notebook.
+
+This project explores the concept of list in Python, using the "for" structure, the enumerate() function and the format() method. It was developed in Jupyter Notebook.
